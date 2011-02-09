@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/classfile
+END
+ByteCode.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/classfile/ByteCode.class
+END
+ClassFileWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/classfile/ClassFileWriter.class
+END
+FieldOrMethodRef.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/classfile/FieldOrMethodRef.class
+END
+ConstantPool.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/classfile/ConstantPool.class
+END
+ClassFileMethod.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/classfile/ClassFileMethod.class
+END
+ExceptionTableEntry.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/classfile/ExceptionTableEntry.class
+END
+ClassFileField.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/classfile/ClassFileField.class
+END

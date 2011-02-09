@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/optimizer
+END
+OptRuntime$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/optimizer/OptRuntime$1.class
+END
+DataFlowBitSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/optimizer/DataFlowBitSet.class
+END
+OptFunctionNode.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/optimizer/OptFunctionNode.class
+END
+Block$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/optimizer/Block$1.class
+END
+ClassCompiler.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/optimizer/ClassCompiler.class
+END
+BodyCodegen.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/optimizer/BodyCodegen.class
+END
+Optimizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/optimizer/Optimizer.class
+END
+Block$FatBlock.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/optimizer/Block$FatBlock.class
+END
+Codegen.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/optimizer/Codegen.class
+END
+OptTransformer.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/optimizer/OptTransformer.class
+END
+OptRuntime.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/optimizer/OptRuntime.class
+END
+Block.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/optimizer/Block.class
+END

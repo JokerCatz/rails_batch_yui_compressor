@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/regexp
+END
+CompilerState.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/regexp/CompilerState.class
+END
+RegExpImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/regexp/RegExpImpl.class
+END
+RENode.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/regexp/RENode.class
+END
+GlobData.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/regexp/GlobData.class
+END
+REProgState.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/regexp/REProgState.class
+END
+RECharSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/regexp/RECharSet.class
+END
+SubString.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/regexp/SubString.class
+END
+REGlobalData.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/regexp/REGlobalData.class
+END
+NativeRegExp.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/regexp/NativeRegExp.class
+END
+RECompiled.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/regexp/RECompiled.class
+END
+REBackTrackData.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/regexp/REBackTrackData.class
+END
+NativeRegExpCtor.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/regexp/NativeRegExpCtor.class
+END

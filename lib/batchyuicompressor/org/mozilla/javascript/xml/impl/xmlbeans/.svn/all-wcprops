@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/xml/impl/xmlbeans
+END
+XMLList.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/xml/impl/xmlbeans/XMLList.class
+END
+Namespace.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/xml/impl/xmlbeans/Namespace.class
+END
+NamespaceHelper.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/xml/impl/xmlbeans/NamespaceHelper.class
+END
+XML$XScriptAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/xml/impl/xmlbeans/XML$XScriptAnnotation.class
+END
+XML.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/xml/impl/xmlbeans/XML.class
+END
+XMLName.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/xml/impl/xmlbeans/XMLName.class
+END
+QName.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/xml/impl/xmlbeans/QName.class
+END
+XMLWithScope.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/xml/impl/xmlbeans/XMLWithScope.class
+END
+XMLList$AnnotationList.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/xml/impl/xmlbeans/XMLList$AnnotationList.class
+END
+XMLCtor.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/xml/impl/xmlbeans/XMLCtor.class
+END
+LogicalEquality.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/xml/impl/xmlbeans/LogicalEquality.class
+END
+XMLLibImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/xml/impl/xmlbeans/XMLLibImpl.class
+END
+XMLObjectImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/xml/impl/xmlbeans/XMLObjectImpl.class
+END
+XML$NamespaceDeclarations.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/xml/impl/xmlbeans/XML$NamespaceDeclarations.class
+END

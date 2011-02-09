@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/idswitch
+END
+FileBody$ReplaceItem.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/idswitch/FileBody$ReplaceItem.class
+END
+FileBody.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/idswitch/FileBody.class
+END
+CodePrinter.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/idswitch/CodePrinter.class
+END
+Main.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/idswitch/Main.class
+END
+IdValuePair.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/idswitch/IdValuePair.class
+END
+SwitchGenerator.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/idswitch/SwitchGenerator.class
+END

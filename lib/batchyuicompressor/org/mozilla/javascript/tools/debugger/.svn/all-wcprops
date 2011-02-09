@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger
+END
+Dim$ContextData.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/Dim$ContextData.class
+END
+MyTreeTable.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/MyTreeTable.class
+END
+FileTextArea.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/FileTextArea.class
+END
+MyTableModel.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/MyTableModel.class
+END
+Dim$DimIProxy.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/Dim$DimIProxy.class
+END
+EvalTextArea.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/EvalTextArea.class
+END
+FindFunction.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/FindFunction.class
+END
+ContextWindow$1$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/ContextWindow$1$1.class
+END
+Menubar.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/Menubar.class
+END
+JSInternalConsole.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/JSInternalConsole.class
+END
+SwingGui.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/SwingGui.class
+END
+Evaluator.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/Evaluator.class
+END
+VariableModel.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/VariableModel.class
+END
+FileWindow.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/FileWindow.class
+END
+Dim.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/Dim.class
+END
+FindFunction$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/FindFunction$1.class
+END
+ContextWindow.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/ContextWindow.class
+END
+MoreWindows.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/MoreWindows.class
+END
+Dim$StackFrame.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/Dim$StackFrame.class
+END
+EvalWindow.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/EvalWindow.class
+END
+JSInternalConsole$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/JSInternalConsole$1.class
+END
+SwingGui$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/SwingGui$1.class
+END
+SwingGui$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/SwingGui$2.class
+END
+ScopeProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/ScopeProvider.class
+END
+Main.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/Main.class
+END
+VariableModel$VariableNode.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/VariableModel$VariableNode.class
+END
+FileHeader.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/FileHeader.class
+END
+FilePopupMenu.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/FilePopupMenu.class
+END
+MoreWindows$MouseHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/MoreWindows$MouseHandler.class
+END
+VariableModel$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/VariableModel$1.class
+END
+Dim$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/Dim$1.class
+END
+FindFunction$MouseHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/FindFunction$MouseHandler.class
+END
+ContextWindow$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/ContextWindow$1.class
+END
+GuiCallback.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/GuiCallback.class
+END
+ContextWindow$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/ContextWindow$2.class
+END
+MoreWindows$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/MoreWindows$1.class
+END
+Main$IProxy.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/Main$IProxy.class
+END
+Dim$FunctionSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/Dim$FunctionSource.class
+END
+MessageDialogWrapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/MessageDialogWrapper.class
+END
+RunProxy.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/RunProxy.class
+END
+Dim$SourceInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/debugger/Dim$SourceInfo.class
+END

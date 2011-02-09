@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/batchyuicompressor/com/yahoo/platform/yui/compressor
+END
+Bootstrap.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/batchyuicompressor/com/yahoo/platform/yui/compressor/Bootstrap.class
+END
+JavaScriptCompressor.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/batchyuicompressor/com/yahoo/platform/yui/compressor/JavaScriptCompressor.class
+END
+YUICompressor.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/batchyuicompressor/com/yahoo/platform/yui/compressor/YUICompressor.class
+END
+ScriptOrFnScope.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/batchyuicompressor/com/yahoo/platform/yui/compressor/ScriptOrFnScope.class
+END
+CssCompressor.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/batchyuicompressor/com/yahoo/platform/yui/compressor/CssCompressor.class
+END
+JavaScriptToken.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/batchyuicompressor/com/yahoo/platform/yui/compressor/JavaScriptToken.class
+END
+YUICompressor$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/batchyuicompressor/com/yahoo/platform/yui/compressor/YUICompressor$1.class
+END
+JarClassLoader.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/batchyuicompressor/com/yahoo/platform/yui/compressor/JarClassLoader.class
+END
+JavaScriptIdentifier.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/batchyuicompressor/com/yahoo/platform/yui/compressor/JavaScriptIdentifier.class
+END

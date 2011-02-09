@@ -1,0 +1,16 @@
+RailsBatchYuiCompressor
+
+UTF8 okay :P
+
+YUI Compressor source : http://yuilibrary.com/
+BatchYuiCompressor : http://code.google.com/p/batchyuicompressor/
+
+use New BSD License : http://www.opensource.org/licenses/bsd-license.php
+
+please change %PLUGIN%/lib/batchyuicompressor/compress.ini first
+default
+
+(JavaScript) %RAILS_APPS%/public/javascripts_source/ => %RAILS_APPS%/public/javascripts/
+(StyleSheet) %RAILS_APPS%/public/stylesheets_source/ => %RAILS_APPS%/public/stylesheets/
+
+by JokerCatz 20110209

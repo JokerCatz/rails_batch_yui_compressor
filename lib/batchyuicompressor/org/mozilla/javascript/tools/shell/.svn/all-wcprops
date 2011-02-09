@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell
+END
+ConsoleWrite.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell/ConsoleWrite.class
+END
+JavaPolicySecurity$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell/JavaPolicySecurity$1.class
+END
+JavaPolicySecurity$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell/JavaPolicySecurity$2.class
+END
+QuitAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell/QuitAction.class
+END
+JavaPolicySecurity$ContextPermissions$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell/JavaPolicySecurity$ContextPermissions$1.class
+END
+JavaPolicySecurity$Loader.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell/JavaPolicySecurity$Loader.class
+END
+JSConsole$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell/JSConsole$1.class
+END
+Main.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell/Main.class
+END
+Global$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell/Global$1.class
+END
+PipeThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell/PipeThread.class
+END
+JSConsole$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell/JSConsole$2.class
+END
+JavaPolicySecurity.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell/JavaPolicySecurity.class
+END
+JavaPolicySecurity$ContextPermissions.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell/JavaPolicySecurity$ContextPermissions.class
+END
+JSConsole.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell/JSConsole.class
+END
+ConsoleWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell/ConsoleWriter.class
+END
+ConsoleTextArea.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell/ConsoleTextArea.class
+END
+Global.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell/Global.class
+END
+Main$IProxy.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell/Main$IProxy.class
+END
+Environment.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell/Environment.class
+END
+ShellContextFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell/ShellContextFactory.class
+END
+Runner.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell/Runner.class
+END
+SecurityProxy.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/tools/shell/SecurityProxy.class
+END

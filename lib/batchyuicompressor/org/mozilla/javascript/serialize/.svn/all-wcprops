@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/serialize
+END
+ScriptableInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/serialize/ScriptableInputStream.class
+END
+ScriptableOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/serialize/ScriptableOutputStream.class
+END
+ScriptableOutputStream$PendingLookup.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/batchyuicompressor/org/mozilla/javascript/serialize/ScriptableOutputStream$PendingLookup.class
+END
