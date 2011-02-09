@@ -13,4 +13,8 @@ default
 (JavaScript) %RAILS_APPS%/public/javascripts_source/ => %RAILS_APPS%/public/javascripts/
 (StyleSheet) %RAILS_APPS%/public/stylesheets_source/ => %RAILS_APPS%/public/stylesheets/
 
+& use it
+
+rake yui_compress
+
 by JokerCatz 20110209
